@@ -31,11 +31,17 @@ This repository contains all 10 practical lab assignments completed for the **Py
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## 🛠️ Tech Stack & Libraries Used
 
 * **Language:** Python 3.12
 * **Environment:** Jupyter Notebook
-* **Libraries:** `math`, `numpy` (2.5.2), `pandas` (3.0.5), `matplotlib` (3.11.1), `seaborn` (0.13.2), `scikit-learn` (1.9.1)
+* **Libraries:**
+  * `math` (Standard Library)
+  * `numpy`
+  * `pandas`
+  * `matplotlib`
+  * `seaborn`
+  * `scikit-learn` (for loading the Iris dataset)
 
 ---
 
