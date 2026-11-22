@@ -49,7 +49,7 @@ This repository contains all 10 practical lab assignments completed for the **Py
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/naitikkumar031-cloud/Python.git
    cd Python
    ```
 
