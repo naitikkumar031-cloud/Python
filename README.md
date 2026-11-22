@@ -1,9 +1,5 @@
 # 🐍 Python Application Programming — Practical Assignments
 
-![Python](https://shields.io)
-![Jupyter](https://shields.io)
-![Status](https://shields.io)
-
 ## 📋 Course Details
 * **Student Name:** Naitik Kumar
 * **Roll / Enrollment No.:** GF202573108
@@ -22,16 +18,16 @@ This repository contains all 10 practical lab assignments completed for the **Py
 
 | No. | Notebook | Practical Topic | Key Concepts Covered | Quick View |
 | :--- | :--- | :--- | :--- | :--- |
-| 01 | [`P_1.ipynb`](P_1.ipynb) | **Foundational Concepts** | `print()` statements, comments, data types (`int`, `float`, `str`, `bool`), type casting, arithmetic operators, and time conversion (`//`, `%`). | [![Open In Colab](https://google.com)](https://google.com) |
-| 02 | [`P_2.ipynb`](P_2.ipynb) | **Strings & Lists** | List creation, `.append()`, positive/negative indexing, element modification, and `.remove()`. | [![Open In Colab](https://google.com)](https://google.com) |
-| 03 | [`P_3.ipynb`](P_3.ipynb) | **Dictionaries & Tuples** | **Dictionaries:** Nested structures, `.items()` iteration, membership checks, and key deletion.<br>**Tuples:** `max()`, `min()`, `sum()`, `sorted()`, and immutability (`TypeError`). | [![Open In Colab](https://google.com)](https://google.com) |
-| 04 | [`P_4.ipynb`](P_4.ipynb) | **Conditions, Branching & Loops** | Filtering dictionary records with `if-else`, even/odd checks, palindromes, digit-sum divisibility, `for` loops with `range()`, and `while` loops with `break`. | [![Open In Colab](https://google.com)](https://google.com) |
-| 05 | [`P_5.ipynb`](P_5.ipynb) | **Error Handling** | `try-except` blocks for `ZeroDivisionError`, raising/catching `ValueError` for invalid inputs, and generic `Exception` handling. | [![Open In Colab](https://google.com)](https://google.com) |
-| 06 | [`P_6.ipynb`](P_6.ipynb) | **Classes, Objects & Logic** | Fixing inheritance with `super()`, anagram verification, Armstrong number checking, and building a `Vehicle` class with methods. | [![Open In Colab](https://google.com)](https://google.com) |
-| 07 | [`P_7.ipynb`](P_7.ipynb) | **Polymorphism & Encapsulation** | Magic methods (`__init__`, `__repr__`), inheritance (`Animal` → `Dog`), polymorphism (`Cat`, `Fox`), and encapsulation with private attributes (`__score`). | [![Open In Colab](https://google.com)](https://google.com) |
-| 08 | [`P_8.ipynb`](P_8.ipynb) | **NumPy & Pandas** | DataFrame creation, column selection, `head()`, `describe()`, `isnull().sum()`, missing value imputation (`fillna()` with mode/median), filtering, `groupby()`, and sorting. | [![Open In Colab](https://google.com)](https://google.com) |
-| 09 | [`P_9.ipynb`](P_9.ipynb) | **Data Cleaning & File I/O** | Context-managed file handling (`with open()`) to interleave string pairs into a file, and parsing/reformatting `MM/DD/YYYY` date strings. | [![Open In Colab](https://google.com)](https://google.com) |
-| 10 | [`P_10.ipynb`](P_10.ipynb) | **Data Visualization** | Exploratory visualization and correlation analysis of the **Iris dataset** using Seaborn & Matplotlib (Scatter, KDE Density, Violin, Heatmap, Joint, and Pair plots). | [![Open In Colab](https://google.com)](https://google.com) |
+| 01 | [`P_1.ipynb`](P_1.ipynb) | **Foundational Concepts** | `print()` statements, comments, data types (`int`, `float`, `str`, `bool`), type casting, arithmetic operators, and time conversion (`//`, `%`). | [Open in Colab](https://google.com) |
+| 02 | [`P_2.ipynb`](P_2.ipynb) | **Strings & Lists** | List creation, `.append()`, positive/negative indexing, element modification, and `.remove()`. | [Open in Colab](https://google.com) |
+| 03 | [`P_3.ipynb`](P_3.ipynb) | **Dictionaries & Tuples** | **Dictionaries:** Nested structures, `.items()` iteration, membership checks, and key deletion.<br>**Tuples:** `max()`, `min()`, `sum()`, `sorted()`, and immutability (`TypeError`). | [Open in Colab](https://google.com) |
+| 04 | [`P_4.ipynb`](P_4.ipynb) | **Conditions, Branching & Loops** | Filtering dictionary records with `if-else`, even/odd checks, palindromes, digit-sum divisibility, `for` loops with `range()`, and `while` loops with `break`. | [Open in Colab](https://google.com) |
+| 05 | [`P_5.ipynb`](P_5.ipynb) | **Error Handling** | `try-except` blocks for `ZeroDivisionError`, raising/catching `ValueError` for invalid inputs, and generic `Exception` handling. | [Open in Colab](https://google.com) |
+| 06 | [`P_6.ipynb`](P_6.ipynb) | **Classes, Objects & Logic** | Fixing inheritance with `super()`, anagram verification, Armstrong number checking, and building a `Vehicle` class with methods. | [Open in Colab](https://google.com) |
+| 07 | [`P_7.ipynb`](P_7.ipynb) | **Polymorphism & Encapsulation** | Magic methods (`__init__`, `__repr__`), inheritance (`Animal` → `Dog`), polymorphism (`Cat`, `Fox`), and encapsulation with private attributes (`__score`). | [Open in Colab](https://google.com) |
+| 08 | [`P_8.ipynb`](P_8.ipynb) | **NumPy & Pandas** | DataFrame creation, column selection, `head()`, `describe()`, `isnull().sum()`, missing value imputation (`fillna()` with mode/median), filtering, `groupby()`, and sorting. | [Open in Colab](https://google.com) |
+| 09 | [`P_9.ipynb`](P_9.ipynb) | **Data Cleaning & File I/O** | Context-managed file handling (`with open()`) to interleave string pairs into a file, and parsing/reformatting `MM/DD/YYYY` date strings. | [Open in Colab](https://google.com) |
+| 10 | [`P_10.ipynb`](P_10.ipynb) | **Data Visualization** | Exploratory visualization and correlation analysis of the **Iris dataset** using Seaborn & Matplotlib (Scatter, KDE Density, Violin, Heatmap, Joint, and Pair plots). | [Open in Colab](https://google.com) |
 
 ---
 
@@ -39,13 +35,7 @@ This repository contains all 10 practical lab assignments completed for the **Py
 
 * **Language:** Python 3.12
 * **Environment:** Jupyter Notebook
-* **Libraries:**
-  * `math` (Standard Library)
-  * `numpy`
-  * `pandas`
-  * `matplotlib`
-  * `seaborn`
-  * `scikit-learn` (for loading the Iris dataset)
+* **Libraries:** `math`, `numpy` (2.5.2), `pandas` (3.0.5), `matplotlib` (3.11.1), `seaborn` (0.13.2), `scikit-learn` (1.9.1)
 
 ---
 
@@ -71,4 +61,3 @@ This repository contains all 10 practical lab assignments completed for the **Py
 
 ## 👤 Author
 **Naitik Kumar** — [@naitikkumar031-cloud](https://github.com)
-
